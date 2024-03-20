@@ -1,0 +1,4 @@
+.image.object img {
+    width: 350px !important; /* Adjust width as needed */
+    height: 450px !important; /* Maintain aspect ratio */
+}
